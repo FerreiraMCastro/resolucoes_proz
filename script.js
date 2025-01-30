@@ -10,7 +10,7 @@ const listaDesordenada = document.querySelector("ul");
 titulo.innerText = "Manipulando elementos com o DOM";
 link.innerText = "Proz Educação";
 
-//adicionando elementos no HTML com o DOM:
+//**adicionando elementos no HTML com o DOM:**
 
 
 //Adicionando três itens com links na lista ordenada:
