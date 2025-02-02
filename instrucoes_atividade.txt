@@ -5,3 +5,14 @@ html e script.js. No arquivo 'index' insira a estrutura base HTML e
 dentro da tag 'body' inclua quatro tags vazias:
 h1, ul, a, ol. Adicione o atributo id="titulo" à tag h1, o atributo href="https://prozeducacao.com.br" à tag 'a', e o atributo id="lista-ordenada" à tag 'ol'. 
 Na sequência, realize a conexão entre o arquivo HTML e o arquivo JavaScript.
+
+**Atividade Desenvolvimento extra**
+módulo 5 Criando elementos DOM 
+Usando os conceitos aprendidos nesse módulo, e sem alterar o arquivo index.html
+l, adicione um título simples ao site com o id 'titulo', 
+e um elemento que represente um produto à venda.
+O produto precisa incluir pelo menos o nome, 
+a descrição e o preço. 
+Pode incluir outros "elementos filhos" se achar necessário 
+como, por exemplo, uma imagem. 
+Procure usar o método simples e o método complexo, ensinados neste tópico.
